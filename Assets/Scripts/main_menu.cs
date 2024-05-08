@@ -19,11 +19,11 @@ public class menu : MonoBehaviour
             {
                 case "play":
                     // Load the level 1 scene
-                    SceneManager.LoadScene("Level1");
+                    SceneManager.LoadScene("level1");
                     break;
                 case "levels":
                     // Load the levels selection scene
-                    SceneManager.LoadScene("Levels");
+                    SceneManager.LoadScene("levels");
                     break;
                  case "close":
                     // Quit the application

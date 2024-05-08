@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - zemin
+<<<<<<< Updated upstream
   - duvar
   - monster
   - close
@@ -25,6 +26,9 @@ TagManager:
   - level9
   - level10
   - home
+=======
+  - close
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX

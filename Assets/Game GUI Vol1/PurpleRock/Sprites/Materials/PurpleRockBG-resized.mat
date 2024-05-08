@@ -8,12 +8,20 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PurpleRockBG-resized
+<<<<<<< Updated upstream
   m_Shader: {fileID: 10762, guid: 0000000000000000f000000000000000, type: 0}
+=======
+  m_Shader: {fileID: 10, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> Stashed changes
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
+<<<<<<< Updated upstream
   m_LightmapFlags: 4
+=======
+  m_LightmapFlags: 0
+>>>>>>> Stashed changes
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -23,6 +31,7 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+<<<<<<< Updated upstream
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -40,6 +49,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
+=======
+    - _Illum:
+>>>>>>> Stashed changes
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -47,6 +59,7 @@ Material:
         m_Texture: {fileID: 2800000, guid: 3fb580970ae8c48e7befdc608b11eacc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< Updated upstream
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -87,4 +100,11 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+=======
+    m_Ints: []
+    m_Floats:
+    - _Emission: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> Stashed changes
   m_BuildTextureStacks: []
